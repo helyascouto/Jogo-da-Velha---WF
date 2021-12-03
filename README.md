@@ -1,7 +1,8 @@
 # Jogo da Velha!
 
 <h2 align="left"> Jogo da Velha com Windows Forms </h2>
-   <h3> Projeto em Windows Forms feitos nas aulas da Academia .NET ministradas pelos professores Fabrício Tonetto Londero e Ricardo Frohlich! da UFN Universidade - (https://github.com/helyascouto/Jogo-da-Velha---WF) </h3>
+   <h3> Projeto em Windows Forms feitos nas aulas da Academia .NET ministradas pelos professores Fabrício Tonetto Londero e Ricardo Frohlich! da UFN Universidade </h3>
+   <br>
    <img src="https://repository-images.githubusercontent.com/433447443/7a850676-009c-4224-a88e-90306a08069e" alt="imagem do projeto">
 <br>
 <h2 align="left">Projetos em Destaque!</h2>
