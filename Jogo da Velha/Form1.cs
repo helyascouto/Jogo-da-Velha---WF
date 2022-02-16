@@ -93,6 +93,7 @@ namespace Jogo_Da_velha
             Limparbotoes();
             btnXcomeça.Enabled = true;
             btnOComeçar.Enabled = true;
+            
 
         }
         private void VerificaVencedor()

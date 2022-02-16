@@ -230,9 +230,8 @@ namespace Jogo_Da_velha
             this.lbnJogadas.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lbnJogadas.Location = new System.Drawing.Point(277, 306);
             this.lbnJogadas.Name = "lbnJogadas";
-            this.lbnJogadas.Size = new System.Drawing.Size(43, 50);
+            this.lbnJogadas.Size = new System.Drawing.Size(0, 50);
             this.lbnJogadas.TabIndex = 1;
-            this.lbnJogadas.Text = "9";
             // 
             // label3
             // 
